@@ -728,6 +728,24 @@
         },
         "DefaultValueSource": "Default"
       }
+    ],
+    "UiPath.WorkflowEvents.Activities.AppRequestTrigger": [
+      {
+        "Type": "AppsTrigger",
+        "PublishNullValues": false,
+        "Key": {
+          "Value": "BindingsKey",
+          "ValueSource": "Property"
+        },
+        "Values": {
+          "UiPath.WorkflowEvents.Activities.Version": {
+            "Value": "PackageVersion",
+            "ValueSource": "Property"
+          }
+        },
+        "SubBindings": [],
+        "DefaultValueSource": "Property"
+      }
     ]
   }
 }
