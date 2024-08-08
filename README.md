@@ -17,8 +17,8 @@ The performer bot operates unattended and is triggered by a queue populated with
 
 #### Prerequisites
 
-- UiPath Studio installed.
-- Microsoft Excel installed.
+- **UiPath Studio** installed.
+- **Microsoft Excel** installed.
 
 #### Steps
 
@@ -53,9 +53,9 @@ The performer bot operates unattended and is triggered by a queue populated with
 ### Dependencies
 
 This project requires the following dependencies:
-- Microsoft Excel: Required for handling Excel files.
-- UiPath.Excel.Activities: For interacting with Excel files.
-- UiPath.System.Activities: For general automation tasks.
+- **Microsoft Excel:** Required for handling Excel files.
+- **UiPath.Excel.Activities:** For interacting with Excel files.
+- **UiPath.System.Activities:** For general automation tasks.
 
 These dependencies can be managed through UiPath Studio's Package Manager. Ensure all required packages are installed and up-to-date.
 
