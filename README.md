@@ -49,7 +49,8 @@ The performer bot operates unattended and is triggered by a queue populated with
    - Go to the Manage Packages section.
    - Install `UiPath.Excel.Activities`.
    - Install `UiPath.System.Activities`.
-
+>[!NOTE]
+>I managed the logs directly within the workflow instead of delegating them to a config file for simplicity purposes.
 ### Dependencies
 
 This project requires the following dependencies:
