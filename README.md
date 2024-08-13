@@ -9,7 +9,7 @@ This UiPath process automates the collection of car model data from various webs
 The performer bot operates unattended and is triggered by a queue populated with car model links. It efficiently navigates through car model links, gathers comprehensive data, and ensures accurate data collection and management.
 
 >[!IMPORTANT]
->All file paths used in the project are relative, allowing users to clone the project and use it directly. Outputs are stored in the `Outputs` folder. Ensure that the `Inputs` folder contains necessary files for the bot to function correctly.
+>All file paths used in the project are relative, allowing users to clone the project and use it directly. Outputs are stored in the `Outputs` folder.
 
 ## Process Flow Chart
 ![Process Flow Chart](processFlowChart.jpg)
