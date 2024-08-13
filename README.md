@@ -82,7 +82,7 @@ The Auto Samir Rayan Performer Bot performs the following steps:
    - Log success or errors during processing.
 
 6. **Send Confirmation Email:**
-   - Send a confirmation email with the results and any relevant attachments.
+   - Send a confirmation email with the results in compressed format and any relevant attachments.
 
 
 
